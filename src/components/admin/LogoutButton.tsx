@@ -1,0 +1,1 @@
+"use client"; import { useRouter } from "next/navigation"; export function LogoutButton(){const router=useRouter();return <button onClick={async()=>{await fetch("/api/admin/logout",{method:"POST"});router.push("/admin/login");router.refresh()}} className="text-xs uppercase tracking-widest text-zinc-500 hover:text-white">Cerrar sesión</button>}

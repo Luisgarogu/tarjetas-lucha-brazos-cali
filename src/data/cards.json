@@ -1,0 +1,5 @@
+[
+  {"id":"ent-0001","documentId":"1144001234","fullName":"Carlos Ramírez","birthDate":"1988-04-12","weightKg":88,"heightCm":178,"clubJoinYear":2017,"status":"active","role":"coach","imageUrl":"/people/ent-0001.webp","updatedAt":"2026-07-13T00:00:00.000Z"},
+  {"id":"dep-0001","documentId":"1006123456","fullName":"Santiago López","birthDate":"1998-09-22","weightKg":73,"heightCm":175,"clubJoinYear":2021,"status":"active","role":"athlete","imageUrl":"/people/dep-0001.webp","updatedAt":"2026-07-13T00:00:00.000Z"},
+  {"id":"dep-0002","documentId":"1006987654","fullName":"Mateo Torres","birthDate":"1995-02-03","weightKg":102,"heightCm":183,"clubJoinYear":2020,"status":"inactive","role":"athlete","imageUrl":"/people/dep-0002.webp","updatedAt":"2026-07-13T00:00:00.000Z"}
+]

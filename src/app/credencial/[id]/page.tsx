@@ -1,0 +1,2 @@
+import { notFound } from "next/navigation"; import { getCardById } from "@/lib/cards/get-card-by-id"; import { SportsCardView } from "@/components/sports-card/SportsCardView";
+export default function CardPage({ params }: { params: { id: string } }) { const card=getCardById(params.id); if(!card) notFound(); return <main className="min-h-screen px-4 py-8 sm:px-8 sm:py-14"><SportsCardView card={card}/></main> }

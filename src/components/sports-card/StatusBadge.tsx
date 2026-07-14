@@ -1,0 +1,2 @@
+import clsx from "clsx"; import type { CardStatus } from "@/types/card";
+export function StatusBadge({ status }: { status: CardStatus }) { return <span className={clsx("inline-flex items-center gap-2 border px-3 py-1 text-xs font-black uppercase tracking-[.18em]", status === "active" ? "border-emerald-700/60 bg-emerald-950/70 text-emerald-400" : "border-red-900 bg-red-950/60 text-red-400")}><span className={clsx("h-1.5 w-1.5 rounded-full",status === "active" ? "bg-emerald-400":"bg-red-500")}/>{status === "active" ? "Activo" : "Inactivo"}</span> }

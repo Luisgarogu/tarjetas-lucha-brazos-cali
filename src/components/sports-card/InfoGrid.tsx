@@ -1,0 +1,2 @@
+import type { ReactNode } from "react";
+export function InfoGrid({ items }: { items: { label: string; value: ReactNode }[] }) { return <dl className="grid grid-cols-1 border-l border-t border-zinc-800 min-[360px]:grid-cols-2">{items.map(({label,value})=><div key={label} className="min-w-0 border-b border-r border-zinc-800 bg-black/30 p-3 sm:p-4"><dt className="text-[9px] font-bold uppercase tracking-[.16em] text-zinc-600 sm:tracking-[.2em]">{label}</dt><dd className="mt-1 break-words text-sm font-bold text-zinc-200">{value}</dd></div>)}</dl> }

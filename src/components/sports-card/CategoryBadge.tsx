@@ -1,0 +1,2 @@
+import { calculateWeightCategory } from "@/lib/cards/calculate-weight-category";
+export function CategoryBadge({ weightKg }: { weightKg: number }) { const category = calculateWeightCategory(weightKg); return <div className="bg-red-700 px-4 py-2 text-center shadow-[4px_4px_0_#3f3f46]"><p className="text-2xl font-black italic leading-none">{category.shortLabel}</p><p className="mt-1 text-[9px] uppercase tracking-widest text-red-100">{category.code}</p></div> }
