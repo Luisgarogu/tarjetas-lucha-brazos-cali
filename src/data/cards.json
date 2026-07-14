@@ -3,7 +3,7 @@
     "id": "ent-0001",
     "documentId": "1192891826",
     "fullName": "José Alejandro Ramos",
-    "birthDate": "2026-09-17",
+    "birthDate": "2000-09-17",
     "weightKg": 105,
     "heightCm": 182,
     "clubJoinYear": 2020,
@@ -11,6 +11,6 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0001.webp",
-    "updatedAt": "2026-07-14T01:32:03.500Z"
+    "updatedAt": "2026-07-14T01:33:53.789Z"
   }
 ]
