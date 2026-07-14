@@ -11,7 +11,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0001.webp",
-    "updatedAt": "2026-07-14T01:49:05.623Z"
+    "updatedAt": "2026-07-14T01:50:23.086Z"
   },
   {
     "id": "ent-0002",
@@ -25,7 +25,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0002.webp",
-    "updatedAt": "2026-07-14T01:49:05.625Z"
+    "updatedAt": "2026-07-14T01:50:23.088Z"
   },
   {
     "id": "ent-0003",
@@ -37,9 +37,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0003.webp",
-    "updatedAt": "2026-07-14T01:49:05.625Z"
+    "updatedAt": "2026-07-14T01:50:23.088Z"
   },
   {
     "id": "ent-0004",
@@ -53,7 +53,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0004.webp",
-    "updatedAt": "2026-07-14T01:49:05.625Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0005",
@@ -67,7 +67,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0005.webp",
-    "updatedAt": "2026-07-14T01:49:05.625Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0006",
@@ -81,7 +81,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0006.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0007",
@@ -95,7 +95,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0007.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0008",
@@ -109,7 +109,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0008.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0009",
@@ -123,7 +123,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0009.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0010",
@@ -137,7 +137,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0010.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0011",
@@ -151,7 +151,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0011.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0012",
@@ -165,7 +165,7 @@
     "role": "coach",
     "customRoleLabel": "Entrenador",
     "imageUrl": "/people/ent-0012.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0013",
@@ -177,9 +177,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0013.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0014",
@@ -191,9 +191,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0014.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0015",
@@ -205,9 +205,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0015.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0016",
@@ -219,9 +219,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0016.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0017",
@@ -233,9 +233,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0017.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0018",
@@ -247,9 +247,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0018.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0019",
@@ -261,9 +261,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0019.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0020",
@@ -275,9 +275,9 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0020.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   },
   {
     "id": "ent-0021",
@@ -289,8 +289,8 @@
     "clubJoinYear": 2026,
     "status": "active",
     "role": "athlete",
-    "customRoleLabel": "Entrenador",
+    "customRoleLabel": "Deportista",
     "imageUrl": "/people/ent-0021.webp",
-    "updatedAt": "2026-07-14T01:49:05.626Z"
+    "updatedAt": "2026-07-14T01:50:23.089Z"
   }
 ]
